@@ -3,18 +3,22 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6FF&height=220&section=header&text=Prottoy%20Modak&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Software%20Engineer%20%7C%20AI%2FML%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6FF&height=250&section=header&text=Prottoy%20Modak&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CSE%20Student%20%7C%20Software%20Engineer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
 <!-- ========================= -->
-<!--       INTRODUCTION        -->
+<!--     TYPING ANIMATION      -->
 <!-- ========================= -->
-
-<h1 align="center">Hi there, I'm Prottoy Modak 👋</h1>
 
 <p align="center">
-  <strong>CSE Student | Aspiring Software Engineer | AI/ML Enthusiast</strong>
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Prottoy+Modak+%F0%9F%91%8B;CSE+Student+%40+Bangladesh;Building+with+Web+%2B+AI%2FML;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  </a>
 </p>
+
+<!-- ========================= -->
+<!--       SOCIAL BADGES       -->
+<!-- ========================= -->
 
 <p align="center">
   <a href="https://github.com/prottoym">
@@ -24,12 +28,16 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:prottoymodakprottoy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-prottoymodakprottoy%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
   📍 Dhaka, Bangladesh &nbsp;|&nbsp; 📧 prottoymodakprottoy@gmail.com
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prottoym&style=for-the-badge&color=6C63FF&label=Profile+Views" alt="Profile Views"/>
 </p>
 
 ---
@@ -40,46 +48,70 @@ I'm a **Computer Science & Engineering student** with a strong interest in softw
 
 I enjoy turning ideas into practical projects, learning new technologies through hands-on development, and continuously improving my programming and software engineering skills.
 
-* 🎓 Studying **Computer Science & Engineering**
-* 💻 Interested in **Software Development**
-* 🤖 Exploring **Artificial Intelligence & Machine Learning**
-* 🧠 Practicing **Algorithms & Problem Solving**
-* 🌐 Interested in **Web Development**
-* 📚 Always learning and experimenting with new technologies
-* 🚀 Building projects to gain real-world development experience
+```yaml
+name: Prottoy Modak
+role: CSE Student | Software Engineer | AI/ML Enthusiast
+location: Dhaka, Bangladesh
+interests:
+  - Software Development
+  - Artificial Intelligence & Machine Learning
+  - Algorithms & Problem Solving
+  - Web Development
+  - Natural Language Processing
+currently_building: real-world projects to sharpen my skills
+motto: "Learning • Building • Improving"
+```
 
 ---
 
 ## 🚀 What I'm Currently Working On
 
-* 🔨 Building and improving software development projects
-* 🌐 Exploring modern web development (e.g. learning **Next.js**)
-* 🤖 Learning more about AI, ML and NLP
-* 🧠 Strengthening Data Structures & Algorithms
-* 💡 Turning academic concepts into practical projects
-* 📖 Continuously improving my coding and problem-solving skills
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔨 Building**
+- Software development projects
+- Practical applications of academic concepts
+
+**🌐 Exploring**
+- Modern web development (learning **Next.js**)
+
+</td>
+<td width="50%" valign="top">
+
+**🤖 Learning**
+- AI, Machine Learning & NLP
+- Data Structures & Algorithms
+
+**📖 Improving**
+- Coding & problem-solving skills daily
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### 💻 Programming Languages
-<p align="left">
+<p align="center"><b>💻 Programming Languages</b></p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,kotlin" />
 </p>
 
-### 🌐 Web Technologies
-<p align="left">
+<p align="center"><b>🌐 Web Technologies</b></p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
 </p>
 
-### 🤖 AI / ML & Data
-<p align="left">
+<p align="center"><b>🤖 AI / ML & Data</b></p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
 </p>
 
-### 🗄️ Database & Tools
-<p align="left">
+<p align="center"><b>🗄️ Database & Tools</b></p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,linux" />
 </p>
 
@@ -87,37 +119,52 @@ I enjoy turning ideas into practical projects, learning new technologies through
 
 ## ⭐ Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🔹 Algorithm Visualizer
 An interactive project for visualizing algorithms and making algorithmic concepts easier to understand through visual demonstrations.
 
-**Tech Stack:** JavaScript, HTML, CSS
-🔗 **Repository:** https://github.com/prottoym/Algorithm-Visualizer
+**Tech Stack:** `JavaScript` `HTML` `CSS`
 
----
+🔗 [View Repository](https://github.com/prottoym/Algorithm-Visualizer)
+
+</td>
+<td width="50%">
 
 ### 🔹 Vehicle Management System
 A software-based system for managing vehicle-related information and operations.
 
 **Tech Stack:** *(add here, e.g. Java, MySQL)*
-🔗 **Repository:** *(add direct repo link here, e.g. https://github.com/prottoym/Vehicle-Management-System)*
+
+🔗 *(add direct repo link here)*
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📌 My Development Interests
 
-```text
-Software Development
-        │
-        ├── Web Development
-        │
-        ├── Algorithms & Problem Solving
-        │
-        ├── Artificial Intelligence
-        │
-        ├── Machine Learning
-        │
-        └── Natural Language Processing
+```mermaid
+graph LR
+    A[Software Development] --> B[Web Development]
+    A --> C[Algorithms & Problem Solving]
+    A --> D[Artificial Intelligence]
+    D --> E[Machine Learning]
+    D --> F[Natural Language Processing]
+
+    style A fill:#6C63FF,stroke:#fff,color:#fff
+    style B fill:#00C6FF,stroke:#fff,color:#fff
+    style C fill:#00C6FF,stroke:#fff,color:#fff
+    style D fill:#00C6FF,stroke:#fff,color:#fff
+    style E fill:#4B8BBE,stroke:#fff,color:#fff
+    style F fill:#4B8BBE,stroke:#fff,color:#fff
 ```
+
+> 💡 If Mermaid diagrams don't render on your GitHub profile, replace this block with the original text-tree version.
 
 ---
 
@@ -137,12 +184,12 @@ Software Development
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prottoym&theme=github_dark" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=prottoym&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prottoym&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=prottoym&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prottoym&theme=github_dark" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prottoym&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prottoym&theme=github_dark" height="170"/>
 </p>
 
@@ -151,7 +198,15 @@ Software Development
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prottoym&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prottoym&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prottoym&theme=algolia&no-frame=true&row=1&column=6" width="100%"/>
 </p>
 
 ---
