@@ -3,7 +3,7 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6FF&height=250&section=header&text=Prottoy%20Modak&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CSE%20Student%20%7C%20Software%20Engineer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+  <img src="./banner.svg" width="100%"/>
 </p>
 
 <!-- ========================= -->
@@ -89,6 +89,124 @@ timeline
     Web Development : Built projects with HTML, CSS, JS, React, Node.js
     AI / ML Exploration : Started learning ML & NLP concepts
     Now : Learning Next.js & building real-world projects
+```
+
+---
+
+## 🚀 What I'm Currently Working On
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔨 Building**
+- Software development projects
+- Practical applications of academic concepts
+
+**🌐 Exploring**
+- Modern web development (learning **Next.js**)
+
+</td>
+<td width="50%" valign="top">
+
+**🤖 Learning**
+- AI, Machine Learning & NLP
+- Data Structures & Algorithms
+
+**📖 Improving**
+- Coding & problem-solving skills daily
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Skills & Technologies
+
+<p align="center"><b>💻 Programming Languages</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,kotlin" />
+</p>
+
+<p align="center"><b>🌐 Web Technologies</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
+</p>
+
+<p align="center"><b>🤖 AI / ML & Data</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
+</p>
+
+<p align="center"><b>🧰 Tools & Platforms</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prottoym&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prottoym&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prottoym&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prottoym&theme=tokyo-night&hide_border=true" width="90%"/>
+</p>
+
+---
+
+## 🧩 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/prottoym?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prottoym&repo=your-repo-1&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prottoym&repo=your-repo-2&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+> 💡 *Pin your best repositories on GitHub — they'll automatically show up here once configured.*
+
+---
+
+## 🎯 Goals for This Year
+
+- [ ] Master **Next.js** and build full-stack production apps
+- [ ] Deepen knowledge of **Machine Learning** & **NLP**
+- [ ] Solve 300+ problems across competitive programming platforms
+- [ ] Contribute to open-source projects
+- [ ] Build and ship at least 3 real-world portfolio projects
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prottoy-modak-271419215/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:prottoymodakprottoy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/prottoym">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>"Learning • Building • Improving"</i>
+</p>
+
+<p align="center">
+  <sub>Made with ☕ and way too many browser tabs — Prottoy Modak</sub>
+</p>
 ```
 
 ---
