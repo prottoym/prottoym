@@ -193,13 +193,6 @@ graph LR
 </p>
 
 ---
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prottoym&theme=react-dark&hide_border=true&area=true" width="100%"/>
-</p>
-
 ---
 ## 🤝 Connect With Me
 
