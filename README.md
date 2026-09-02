@@ -184,13 +184,12 @@ graph LR
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prottoym&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prottoym&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="170"/>
   <img src="https://streak-stats.demolab.com/?user=prottoym&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prottoym&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prottoym&theme=github_dark" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prottoym&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
 </p>
 
 ---
@@ -206,7 +205,7 @@ graph LR
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prottoym&theme=algolia&no-frame=true&row=1&column=6" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=prottoym&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" width="100%"/>
 </p>
 
 ---
