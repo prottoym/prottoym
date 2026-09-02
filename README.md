@@ -136,9 +136,9 @@ An interactive project for visualizing algorithms and making algorithmic concept
 ### 🔹 Vehicle Management System
 A software-based system for managing vehicle-related information and operations.
 
-**Tech Stack:** *(add here, e.g. Java, MySQL)*
+**Tech Stack:** *C*
 
-🔗 *(add direct repo link here)*
+🔗  [View Repository](https://github.com/prottoym/-Vehicle-Management-System-)
 
 </td>
 </tr>
@@ -201,15 +201,6 @@ graph LR
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prottoym&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" width="100%"/>
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
