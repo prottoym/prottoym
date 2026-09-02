@@ -24,8 +24,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:prottoymodakprottoy@gmail.com">
-  <img src="https://img.shields.io/badge/Email-prottoymodakprottoy%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+    <img src="https://img.shields.io/badge/Email-prottoymodakprottoy%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
@@ -137,12 +137,13 @@ Software Development
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prottoym&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prottoym&theme=github_dark" height="170"/>
   <img src="https://streak-stats.demolab.com/?user=prottoym&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prottoym&layout=compact&hide_border=true&langs_count=8" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prottoym&theme=github_dark" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prottoym&theme=github_dark" height="170"/>
 </p>
 
 ---
@@ -164,7 +165,7 @@ Software Development
 <a href="https://www.linkedin.com/in/prottoy-modak-271419215/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:prottoymodakprottoy@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
