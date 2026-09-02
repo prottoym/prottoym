@@ -23,13 +23,13 @@
   <a href="https://www.linkedin.com/in/prottoy-modak-271419215/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-your.email%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="mailto:prottoymodakprottoy@gmail.com">
+  <img src="https://img.shields.io/badge/Email-prottoymodakprottoy%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 <p align="center">
-  📍 Dhaka, Bangladesh &nbsp;|&nbsp; 📧 your.email@example.com
+  📍 Dhaka, Bangladesh &nbsp;|&nbsp; 📧 prottoymodakprottoy@gmail.com
 </p>
 
 ---
@@ -138,7 +138,7 @@ Software Development
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prottoym&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prottoym&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=prottoym&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
@@ -191,4 +191,4 @@ Software Development
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6FF&height=100&section=footer"/>
-</p>****
+</p>
