@@ -106,4 +106,144 @@ motto: "Learning • Building • Improving"
 </p>
 
 <p align="center"><b>🤖 AI / ML & Data</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+</p>
 
+<p align="center"><b>🗄️ Database & Tools</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,linux" />
+</p>
+
+---
+
+## ⭐ Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔹 Algorithm Visualizer
+An interactive project for visualizing algorithms and making algorithmic concepts easier to understand through visual demonstrations.
+
+**Tech Stack:** `JavaScript` `HTML` `CSS`
+
+🔗 [View Repository](https://github.com/prottoym/Algorithm-Visualizer)
+
+</td>
+<td width="50%">
+
+### 🔹 Vehicle Management System
+A software-based system for managing vehicle-related information and operations.
+
+**Tech Stack:** *(add here, e.g. Java, MySQL)*
+
+🔗 *(add direct repo link here)*
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📌 My Development Interests
+
+```mermaid
+graph LR
+    A[Software Development] --> B[Web Development]
+    A --> C[Algorithms & Problem Solving]
+    A --> D[Artificial Intelligence]
+    D --> E[Machine Learning]
+    D --> F[Natural Language Processing]
+
+    style A fill:#6C63FF,stroke:#fff,color:#fff
+    style B fill:#00C6FF,stroke:#fff,color:#fff
+    style C fill:#00C6FF,stroke:#fff,color:#fff
+    style D fill:#00C6FF,stroke:#fff,color:#fff
+    style E fill:#4B8BBE,stroke:#fff,color:#fff
+    style F fill:#4B8BBE,stroke:#fff,color:#fff
+```
+
+> 💡 If Mermaid diagrams don't render on your GitHub profile, replace this block with the original text-tree version.
+
+---
+
+## 🌱 Currently Learning
+
+<p align="center">
+<img src="https://img.shields.io/badge/Software%20Development-0A0A0A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prottoym&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=prottoym&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prottoym&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prottoym&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prottoym&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" width="100%"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+<a href="https://github.com/prottoym">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/prottoy-modak-271419215/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:prottoymodakprottoy@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 💡 My Goal
+
+> To continuously learn, build meaningful projects, and grow as a software engineer while exploring the possibilities of AI and modern technologies.
+
+---
+
+<p align="center">
+  <strong>Thanks for visiting my profile! 🚀</strong>
+</p>
+
+<p align="center">
+  <i>Learning • Building • Improving</i>
+</p>
+
+<!-- ========================= -->
+<!--          FOOTER            -->
+<!-- ========================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6FF&height=100&section=footer"/>
+</p>
